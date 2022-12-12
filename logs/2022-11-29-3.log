@@ -1,0 +1,101 @@
+[16:50:13] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:50:14] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:50:14] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:50:14] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[16:50:14] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\regri\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[16:50:14] [main/WARN]: The coremod appeng.transformer.AppEngCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:14] [main/INFO]: [AppEng] Core Init
+[16:50:14] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:14] [main/WARN]: The coremod buildcraftAdditions.preloader.BCALoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:435]: Warning: version of bspkrsCore, 6.13 is newer than request 6.12
+[16:50:16] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:435]: Warning: version of buildcraft, 6.0.18 is newer than request 6.0.17
+[16:50:16] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/WARN]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/WARN]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/INFO]: Loading tweaker com.mumfrey.liteloader.launch.LiteLoaderTweaker from liteloader-1.7.10.jar
+[16:50:16] [main/INFO]: [io.gitlab.dwarfyassassin.lotrucp.core.UCPCoreMod:<clinit>:23]: LOTR-UCP: Found core mod.
+[16:50:16] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/WARN]: The coremod mekanism.common.asm.LoadingHook does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/WARN]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:16] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: C:\Users\regri\AppData\Roaming\.minecraft\mods
+[16:50:17] [main/WARN]: The coremod mcp.mobius.mobiuscore.asm.CoreDescription does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod openblocks.OpenBlocksCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod openeye.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod openmods.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.7.10_HD_U_E7.jar
+[16:50:17] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_A4.jar
+[16:50:17] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/ERROR]: Coremod ResonantPluginLoader: Unable to class load the plugin resonant.core.ResonantPluginLoader
+java.lang.ClassNotFoundException: resonant.core.ResonantPluginLoader
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_51]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_51]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:460) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[16:50:17] [main/WARN]: The coremod thaumcraft.codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod thaumic.tinkerer.preloader.ThaumicTLoaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod schmoller.tubes.asm.TubesPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/WARN]: The coremod universalelectricity.core.UELoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/ERROR]: Coremod UELoader: The plugin class universalelectricity.core.UELoader was not instantiable
+java.lang.InstantiationException: universalelectricity.core.UELoader
+	at java.lang.Class.newInstance(Class.java:427) ~[?:1.8.0_51]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NoSuchMethodException: universalelectricity.core.UELoader.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082) ~[?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:412) ~[?:1.8.0_51]
+	... 9 more
+[16:50:17] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:50:17] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:50:17] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[16:50:17] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[16:50:17] [main/WARN]: Tweak class name optifine.OptiFineForgeTweaker has already been visited -- skipping
+[16:50:17] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[16:50:17] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:50:17] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:50:17] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[16:50:17] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[16:50:17] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[16:50:17] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[16:50:17] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\Users\regri\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar
+[16:50:17] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:50:20] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Finished data injection.
+[16:50:20] [main/INFO]: Finished data injection.
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Loaded library ejml-0.23.jar.
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:50:20] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer

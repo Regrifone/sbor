@@ -1,0 +1,9 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "tlauncherVersion": 8,
+  "source": "local_version_repo",
+  "jar": "1.7.10",
+  "skinVersion": false,
+  "updatedTime": "2021-12-13T12:15:30+03:00"
+}

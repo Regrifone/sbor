@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "scrape": {
+      "name": "scrape",
+      "lastVersionId": "1.7.10-Forge10.13.1.1217",
+      "javaArgs": "-Xmx3G"
+    },
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.1.1217"
+    }
+  },
+  "selectedProfile": "scrape",
+  "clientToken": "21651fa7-44ea-4cd3-a37e-0210288effc7",
+  "authenticationDatabase": {
+    "67c5d24281794d528604dce8f13ddc30": {
+      "username": "scrape",
+      "accessToken": "null",
+      "userid": "scrape",
+      "uuid": "67c5d242-8179-4d52-8604-dce8f13ddc30",
+      "displayName": "scrape"
+    }
+  }
+}

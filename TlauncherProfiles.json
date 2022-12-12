@@ -1,0 +1,15 @@
+{
+  "clientToken": "cba4b1f6-e8d4-4af2-8e0f-5737fe6de1cc",
+  "accounts": {
+    "985b68dc97f1421db6c53d87919a8ad5": {
+      "username": "Silent_Star",
+      "userID": "Silent_Star",
+      "displayName": "Silent_Star",
+      "uuid": "985b68dc97f1421db6c53d87919a8ad5",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "985b68dc97f1421db6c53d87919a8ad5",
+  "freeAccountUUID": "985b68dc97f1421db6c53d87919a8ad5"
+}
