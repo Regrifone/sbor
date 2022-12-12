@@ -1,0 +1,841 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.86 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 12.12.2022 17:18:08
+Running folder C:\Users\regri\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 8129 MB RAM
+java path=C:\Users\regri\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
+ NVIDIA GeForce GTX 1060 3GB, NVIDIA GeForce GTX 1060 3GB, 7042 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/update_2.0.json?version=2.86&client=a2f84895-8419-43c0-9327-0d0ecee2bb17
+[Updater] Request time: 288 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 60 / 110 MB
+Garbage collector completed: 18 / 151 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\regri\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\regri\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 63 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index.html during 1
+[Browser@1673804915] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (11194 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 186 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 59 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 85 ms.
+[SkinVersionList] Got in 178 ms
+[ExtraVersionList] Got in 289 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 437 ms.
+[OfficialVersionList] Got in 660 ms
+[VersionManager] Versions has been refreshed (1226 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 43 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 53 ms.
+[Double running] clear time label
+saved account Account{displayName=Silent_Star, userid=Silent_Star, uuid=985b68dc97f1421db6c53d87919a8ad5, username=Silent_Star}
+save profiles
+saved account Account{displayName=Silent_Star, userid=Silent_Star, uuid=985b68dc97f1421db6c53d87919a8ad5, username=Silent_Star}
+save profiles
+saved account Account{displayName=Silent_Star, userid=Silent_Star, uuid=985b68dc97f1421db6c53d87919a8ad5, username=Silent_Star}
+save profiles
+saved account Account{displayName=Silent_Star, userid=Silent_Star, uuid=985b68dc97f1421db6c53d87919a8ad5, username=Silent_Star}
+save profiles
+onAuthPassed
+saved account Account{displayName=Silent_Star, userid=Silent_Star, uuid=985b68dc97f1421db6c53d87919a8ad5, username=Silent_Star}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.86
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10SMPDivineRPG_1.4.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedMachinesAS-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedSolarPanel-1.7.10-3.5.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AOBD-2.2.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv1-stable-1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.7.10-1.0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997s-Dimensional-World-1.7.2-1.0.2.16.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AsieLib-1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\backpack-2.0.0-1.7.x.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\bdlib-mc1710-1.4.5.24.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BetterStorage-1.7.10-0.10.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioCraft[v1.8.2][MC1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[BiomesOPlenty][v1.8].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Forestry][v1.6].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Natura][v1.4].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BigReactors-0.4.0rc8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\binnie-mods-2.0-dev4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.7.10-2.1.0.992-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Blood Magic-v1.1.0(1.7.10).jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Botania r1.2-120.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BrandonsCore-1.7.10-1.0.0.12.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BuildcraftAdditions-1.7.10-1.6.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Carpenters Blocks v3.2.8 - MC 1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Chisel-1.7.10-1.5.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CodeChickenCore-1.7.10-1.0.3.26-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHCore-[1.7.10]3.0.0B6-32.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHLib-[1.7.10]1.0.0B6-26.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CompactSolars-1.7.10-4.4.39.315-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ComputerCraft1.64.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Custom.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\dimensional-anchor-59.0.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.7.10-1.0.2h.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ElectroMagicTools-1.7.10-2.0.0Alpha-22.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnchantingPlus-1.7.10-3.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnderIO-1.7.10-2.0.8.221.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EquivalentExchange3-1.7.10-0.2.337.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ExtraCells-1.7.10-2.1.12b8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\extrautilities-1.1.0k.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Factorization-1.7.10-0.8.88.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\forestry_1.7.10-3.0.0.125.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\gendustry-mc1710-1.3.4.29.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\generators-mc1710-0.9.2.15.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GraviSuite-1.7.10-2.0.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GregsLighting-1.11.0-mc1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ic2nc-1.7.10-1.7.10.08.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\iChunUtil-4.0.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\immibis-core-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.2.647-experimental.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\infinitubes-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.59-dev-153.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ironchest-1.7.10-6.0.62.742-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Jabba-1.1.4_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\journeymap_1.7.10_5.1.0_unlimited.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\liquid-xp-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LOTRMod-v36.15-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LycanitesMobsComplete 1.10.0d [1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisiscore-1.7.10-0.9.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisisdoors-1.7.10-1.1.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Mantle-mc1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MDK-1.7.10-7.1.1.114.zip C:\Users\regri\AppData\Roaming\.minecraft\mods\Mekanism-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismTools-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\meteors-1.7.10-2.13.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mffs-4.1.0.31-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\millenaire-6.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineTweaker3-1.7.10-3.0.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MobiusCore-1.2.3_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Modular Systems-1.7.10_1.43.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod C:\Users\regri\AppData\Roaming\.minecraft\mods\MoSkeletons_1.7.10-1.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MSM-SNAP-3.0.0e-For-MC-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\natura-1.7.10-2.2.0-b1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\neiaddons-mc1710-1.12.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NEIPlugins-MC1.7.10-1.1.0.9-unofficial.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NetherOres-[1.7.10]2.3.0RC3-84.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NotEnoughItems-1.7.10-1.0.3.57-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ObsidiPlates-1.7.10-universal-3.0.0.18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenBlocks-1.7.10-1.3-snapshot-434.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenComputers-MC1.7.10-1.3.4.63-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenEye-0.6-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenModsLib-1.7.10-0.6-snapshot-224.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine_1.7.10_HD_A4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OreDictionaryConverter-1.5.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PneumaticCraft-1.7.10-1.2.9-24-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PowerConverters-1.7.10-3.0.0.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\pressure-mc1710-0.9.5.33.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Base-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Compat-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Integration-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Lighting-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Mechanical_beta-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-World-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\QuarryPlus-1.7.10-1.5.7.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Railcraft_1.7.10-9.3.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RedstoneArsenal-[1.7.10]1.1.0B4-10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RemoteIO-1.7.10-1.4.3.B49-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-engine-2.0.0.118-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-induction-0.3.4.116-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\rftools-1.01.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\statues-1.7.10-2.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesCarts2.0.0.b18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesFactoryManagerA92.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\supercraftingframe-1.7.10.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Sync-4.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TConstruct-1.7.10-1.7.0d3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Thaumcraft-1.7.10-4.2.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThaumicTinkerer-2.5-1.7.10-158.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalExpansion-[1.7.10]4.0.0B5-13.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalFoundation-[1.7.10]1.0.0B3-8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TiCTooltips-mc1.7.10-1.1.11b.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TMechworks-1.7.10-0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Translocator-1.7.10-1.1.1.12-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Tubes-1.7.10-2.0.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tubestuff-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\twilightforest-1.7.10-2.3.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\universal-electricity-4.0.0.78-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Vampirism_1.7.10_0.7.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Waila-1.5.5_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Wawla-1.0.6_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\witchery-1.7.10-0.20.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\WR-CBE-1.7.10-1.4.1.4-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ZeroMod-universal-1.7.10-1.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]ArmorStatusHUD-client-1.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]DamageIndicatorsMod-3.2.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.2]Treecapitator-universal-2.0.3.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10SMPDivineRPG_1.4.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedMachinesAS-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedSolarPanel-1.7.10-3.5.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AOBD-2.2.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv1-stable-1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.7.10-1.0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997s-Dimensional-World-1.7.2-1.0.2.16.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AsieLib-1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\backpack-2.0.0-1.7.x.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\bdlib-mc1710-1.4.5.24.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BetterStorage-1.7.10-0.10.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioCraft[v1.8.2][MC1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[BiomesOPlenty][v1.8].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Forestry][v1.6].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Natura][v1.4].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BigReactors-0.4.0rc8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\binnie-mods-2.0-dev4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.7.10-2.1.0.992-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Blood Magic-v1.1.0(1.7.10).jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Botania r1.2-120.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BrandonsCore-1.7.10-1.0.0.12.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BuildcraftAdditions-1.7.10-1.6.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Carpenters Blocks v3.2.8 - MC 1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Chisel-1.7.10-1.5.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CodeChickenCore-1.7.10-1.0.3.26-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHCore-[1.7.10]3.0.0B6-32.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHLib-[1.7.10]1.0.0B6-26.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CompactSolars-1.7.10-4.4.39.315-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ComputerCraft1.64.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Custom.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\dimensional-anchor-59.0.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.7.10-1.0.2h.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ElectroMagicTools-1.7.10-2.0.0Alpha-22.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnchantingPlus-1.7.10-3.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnderIO-1.7.10-2.0.8.221.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EquivalentExchange3-1.7.10-0.2.337.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ExtraCells-1.7.10-2.1.12b8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\extrautilities-1.1.0k.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Factorization-1.7.10-0.8.88.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\forestry_1.7.10-3.0.0.125.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\gendustry-mc1710-1.3.4.29.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\generators-mc1710-0.9.2.15.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GraviSuite-1.7.10-2.0.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GregsLighting-1.11.0-mc1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ic2nc-1.7.10-1.7.10.08.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\iChunUtil-4.0.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\immibis-core-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.2.647-experimental.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\infinitubes-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.59-dev-153.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ironchest-1.7.10-6.0.62.742-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Jabba-1.1.4_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\journeymap_1.7.10_5.1.0_unlimited.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\liquid-xp-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LOTRMod-v36.15-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LycanitesMobsComplete 1.10.0d [1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisiscore-1.7.10-0.9.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisisdoors-1.7.10-1.1.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Mantle-mc1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MDK-1.7.10-7.1.1.114.zip C:\Users\regri\AppData\Roaming\.minecraft\mods\Mekanism-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismTools-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\meteors-1.7.10-2.13.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mffs-4.1.0.31-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\millenaire-6.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineTweaker3-1.7.10-3.0.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MobiusCore-1.2.3_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Modular Systems-1.7.10_1.43.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod C:\Users\regri\AppData\Roaming\.minecraft\mods\MoSkeletons_1.7.10-1.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MSM-SNAP-3.0.0e-For-MC-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\natura-1.7.10-2.2.0-b1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\neiaddons-mc1710-1.12.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NEIPlugins-MC1.7.10-1.1.0.9-unofficial.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NetherOres-[1.7.10]2.3.0RC3-84.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NotEnoughItems-1.7.10-1.0.3.57-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ObsidiPlates-1.7.10-universal-3.0.0.18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenBlocks-1.7.10-1.3-snapshot-434.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenComputers-MC1.7.10-1.3.4.63-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenEye-0.6-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenModsLib-1.7.10-0.6-snapshot-224.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine_1.7.10_HD_A4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OreDictionaryConverter-1.5.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PneumaticCraft-1.7.10-1.2.9-24-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PowerConverters-1.7.10-3.0.0.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\pressure-mc1710-0.9.5.33.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Base-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Compat-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Integration-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Lighting-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Mechanical_beta-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-World-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\QuarryPlus-1.7.10-1.5.7.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Railcraft_1.7.10-9.3.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RedstoneArsenal-[1.7.10]1.1.0B4-10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RemoteIO-1.7.10-1.4.3.B49-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-engine-2.0.0.118-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-induction-0.3.4.116-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\rftools-1.01.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\statues-1.7.10-2.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesCarts2.0.0.b18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesFactoryManagerA92.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\supercraftingframe-1.7.10.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Sync-4.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TConstruct-1.7.10-1.7.0d3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Thaumcraft-1.7.10-4.2.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThaumicTinkerer-2.5-1.7.10-158.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalExpansion-[1.7.10]4.0.0B5-13.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalFoundation-[1.7.10]1.0.0B3-8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TiCTooltips-mc1.7.10-1.1.11b.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TMechworks-1.7.10-0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Translocator-1.7.10-1.1.1.12-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Tubes-1.7.10-2.0.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tubestuff-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\twilightforest-1.7.10-2.3.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\universal-electricity-4.0.0.78-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Vampirism_1.7.10_0.7.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Waila-1.5.5_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Wawla-1.0.6_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\witchery-1.7.10-0.20.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\WR-CBE-1.7.10-1.4.1.4-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ZeroMod-universal-1.7.10-1.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]ArmorStatusHUD-client-1.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]DamageIndicatorsMod-3.2.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.2]Treecapitator-universal-2.0.3.jar
+[Launcher] Force update: false
+[Launcher] Selected version: ForgeOptiFine 1.7.10
+[Launcher] Selected account: Account{displayName=Silent_Star, userid=Silent_Star, uuid=985b68dc97f1421db6c53d87919a8ad5, username=Silent_Star}
+[Launcher] Version sync info: VersionSyncInfo{id='ForgeOptiFine 1.7.10',
+local=CompleteVersion{id='ForgeOptiFine 1.7.10', time=Wed May 14 21:29:06 MSK 2014, release=Wed May 14 21:29:03 MSK 2014, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=16, assets='1.7.10', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@1b99fed1, libraries=[Library{name='optifine:OptiFine:1.7.10_HD_U_E7', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraft:launchwrapper:1.12', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-all:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe.akka:akka-actor_2.11:2.3.3', rules=null, natives=null, extract=null, packed='forge'}, Library{name='com.typesafe:config:1.2.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-actors-migration_2.11:1.1.0', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-compiler:2.11.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-library:2.11.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-parser-combinators_2.11:1.0.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-reflect:2.11.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-swing_2.11:1.0.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-xml_2.11:1.0.2', rules=null, natives=null, extract=null, packed='forge'}, Library{name='lzma:lzma:0.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:netty:1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='java3d:vecmath:1.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:4.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.0.10.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.1', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@71e5c699, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@da403a2, packed='null'}, Library{name='tv.twitch:twitch:5.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='tv.twitch:twitch-platform:5.16', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@107c9bba, packed='null'}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives={WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@44478012, packed='null'}]},
+remote=PartialVersion{id='ForgeOptiFine 1.7.10', time=Mon Dec 13 12:15:30 MSK 2021, release=Wed May 14 21:29:06 MSK 2014, type=modified, source=SKIN_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@1b99fed1}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\regri\AppData\Roaming\.minecraft\assets\indexes\1.7.10.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 209 ms.
+[TLauncherManager] add required libraries: ForgeOptiFine 1.7.10
+[VersionManager] Required for version ForgeOptiFine 1.7.10: []
+[TLauncherManager] add required libraries: ForgeOptiFine 1.7.10
+used default java runtime
+Minecraft requires java version: 8, java path: C:\Users\regri\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:authlib:1.5.21
+[TLauncherManager] library will be replaced: com.mojang:netty:1.6
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+Deleted world: C:\Users\regri\AppData\Roaming\.minecraft\backup\saves\saves\NEI\NEI_2014-08-03T23_32_51.zip
+Deleted world: C:\Users\regri\AppData\Roaming\.minecraft\backup\saves\saves\New World\New World_2022-11-25T15_34_17.zip
+Deleted world: C:\Users\regri\AppData\Roaming\.minecraft\backup\saves\saves\Новый мир\Новый мир_2022-11-25T16_05_09.zip
+Deleted world: C:\Users\regri\AppData\Roaming\.minecraft\backup\saves\saves\Новый мир-\Новый мир-_2022-11-29T16_47_07.zip
+Deleted world: C:\Users\regri\AppData\Roaming\.minecraft\backup\saves\saves\Новый мир--\Новый мир--_2022-11-29T17_07_15.zip
+[Launcher] Getting Minecraft arguments...
+java.nio.charset.MalformedInputException: Input length = 1
+at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+at java.io.InputStreamReader.read(InputStreamReader.java:184)
+at java.io.BufferedReader.fill(BufferedReader.java:161)
+at java.io.BufferedReader.readLine(BufferedReader.java:324)
+at java.io.BufferedReader.readLine(BufferedReader.java:389)
+at java.nio.file.Files.readAllLines(Files.java:3205)
+at org.tlauncher.tlauncher.minecraft.launcher.assitent.LanguageAssistance.constructProgramArguments(LanguageAssistance.java:32)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.constructProcess(MinecraftLauncher.java:699)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:278)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:511)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:169)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:47)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:387)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:380)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:85)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:53)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:338)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:211)
+
+[Launcher] Full command: C:\Users\regri\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\regri\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.7.10\natives -cp C:\Users\regri\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.7.211\authlib-1.7.211.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;C:\Users\regri\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;C:\Users\regri\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.7.10\ForgeOptiFine 1.7.10.jar -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\regri\AppData\Roaming\.minecraft -Dlog4j.configurationFile=C:\Users\regri\AppData\Roaming\.minecraft\assets\log_configs\client-1.7.xml net.minecraft.launchwrapper.Launch --username Silent_Star --version ForgeOptiFine 1.7.10 --gameDir C:\Users\regri\AppData\Roaming\.minecraft --assetsDir C:\Users\regri\AppData\Roaming\.minecraft\assets --assetIndex 1.7.10 --uuid 985b68dc97f1421db6c53d87919a8ad5 --accessToken null --userProperties {} --userType mojang --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10SMPDivineRPG_1.4.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedMachinesAS-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedSolarPanel-1.7.10-3.5.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AOBD-2.2.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv1-stable-1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.7.10-1.0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997s-Dimensional-World-1.7.2-1.0.2.16.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AsieLib-1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\backpack-2.0.0-1.7.x.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\bdlib-mc1710-1.4.5.24.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BetterStorage-1.7.10-0.10.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioCraft[v1.8.2][MC1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[BiomesOPlenty][v1.8].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Forestry][v1.6].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Natura][v1.4].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BigReactors-0.4.0rc8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\binnie-mods-2.0-dev4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.7.10-2.1.0.992-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Blood Magic-v1.1.0(1.7.10).jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Botania r1.2-120.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BrandonsCore-1.7.10-1.0.0.12.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BuildcraftAdditions-1.7.10-1.6.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Carpenters Blocks v3.2.8 - MC 1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Chisel-1.7.10-1.5.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CodeChickenCore-1.7.10-1.0.3.26-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHCore-[1.7.10]3.0.0B6-32.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHLib-[1.7.10]1.0.0B6-26.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CompactSolars-1.7.10-4.4.39.315-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ComputerCraft1.64.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Custom.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\dimensional-anchor-59.0.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.7.10-1.0.2h.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ElectroMagicTools-1.7.10-2.0.0Alpha-22.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnchantingPlus-1.7.10-3.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnderIO-1.7.10-2.0.8.221.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EquivalentExchange3-1.7.10-0.2.337.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ExtraCells-1.7.10-2.1.12b8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\extrautilities-1.1.0k.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Factorization-1.7.10-0.8.88.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\forestry_1.7.10-3.0.0.125.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\gendustry-mc1710-1.3.4.29.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\generators-mc1710-0.9.2.15.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GraviSuite-1.7.10-2.0.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GregsLighting-1.11.0-mc1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ic2nc-1.7.10-1.7.10.08.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\iChunUtil-4.0.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\immibis-core-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.2.647-experimental.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\infinitubes-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.59-dev-153.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ironchest-1.7.10-6.0.62.742-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Jabba-1.1.4_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\journeymap_1.7.10_5.1.0_unlimited.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\liquid-xp-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LOTRMod-v36.15-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LycanitesMobsComplete 1.10.0d [1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisiscore-1.7.10-0.9.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisisdoors-1.7.10-1.1.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Mantle-mc1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MDK-1.7.10-7.1.1.114.zip C:\Users\regri\AppData\Roaming\.minecraft\mods\Mekanism-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismTools-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\meteors-1.7.10-2.13.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mffs-4.1.0.31-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\millenaire-6.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineTweaker3-1.7.10-3.0.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MobiusCore-1.2.3_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Modular Systems-1.7.10_1.43.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod C:\Users\regri\AppData\Roaming\.minecraft\mods\MoSkeletons_1.7.10-1.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MSM-SNAP-3.0.0e-For-MC-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\natura-1.7.10-2.2.0-b1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\neiaddons-mc1710-1.12.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NEIPlugins-MC1.7.10-1.1.0.9-unofficial.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NetherOres-[1.7.10]2.3.0RC3-84.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NotEnoughItems-1.7.10-1.0.3.57-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ObsidiPlates-1.7.10-universal-3.0.0.18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenBlocks-1.7.10-1.3-snapshot-434.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenComputers-MC1.7.10-1.3.4.63-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenEye-0.6-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenModsLib-1.7.10-0.6-snapshot-224.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine-1.7.10_HD_U_E7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine_1.7.10_HD_A4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OreDictionaryConverter-1.5.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PneumaticCraft-1.7.10-1.2.9-24-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PowerConverters-1.7.10-3.0.0.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\pressure-mc1710-0.9.5.33.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Base-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Compat-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Integration-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Lighting-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Mechanical_beta-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-World-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\QuarryPlus-1.7.10-1.5.7.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Railcraft_1.7.10-9.3.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RedstoneArsenal-[1.7.10]1.1.0B4-10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RemoteIO-1.7.10-1.4.3.B49-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-engine-2.0.0.118-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-induction-0.3.4.116-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\rftools-1.01.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\statues-1.7.10-2.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesCarts2.0.0.b18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesFactoryManagerA92.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\supercraftingframe-1.7.10.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Sync-4.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TConstruct-1.7.10-1.7.0d3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Thaumcraft-1.7.10-4.2.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThaumicTinkerer-2.5-1.7.10-158.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalExpansion-[1.7.10]4.0.0B5-13.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalFoundation-[1.7.10]1.0.0B3-8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TiCTooltips-mc1.7.10-1.1.11b.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tlskincape_1.7.10-1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TMechworks-1.7.10-0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Translocator-1.7.10-1.1.1.12-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Tubes-1.7.10-2.0.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tubestuff-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\twilightforest-1.7.10-2.3.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\universal-electricity-4.0.0.78-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Vampirism_1.7.10_0.7.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Waila-1.5.5_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Wawla-1.0.6_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\witchery-1.7.10-0.20.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\WR-CBE-1.7.10-1.4.1.4-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ZeroMod-universal-1.7.10-1.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]ArmorStatusHUD-client-1.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]DamageIndicatorsMod-3.2.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.2]Treecapitator-universal-2.0.3.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=Minecraft Server, address=192.168.1.33, ip=192.168.1.33, port=null, hideAddress=false, acceptTextures=-1)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] skin system is activated: true
+[Launcher] Starting Minecraft ForgeOptiFine 1.7.10...
+[Launcher] Launching in: C:\Users\regri\AppData\Roaming\.minecraft
+Starting garbage collector: 218 / 277 MB
+Garbage collector completed: 42 / 268 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[17:20:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:52] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:52] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:60] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[17:20:60] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\regri\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[17:20:31] [main/WARN]: The coremod appeng.transformer.AppEngCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:32] [main/INFO]: [AppEng] Core Init
+[17:20:36] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:05] [main/WARN]: The coremod buildcraftAdditions.preloader.BCALoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:44] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:435]: Warning: version of bspkrsCore, 6.13 is newer than request 6.12
+[17:20:48] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:435]: Warning: version of buildcraft, 6.0.18 is newer than request 6.0.17
+[17:20:52] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:57] [main/WARN]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:61] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:71] [main/WARN]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:72] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:72] [main/INFO]: Loading tweaker com.mumfrey.liteloader.launch.LiteLoaderTweaker from liteloader-1.7.10.jar
+[17:20:74] [main/INFO]: [io.gitlab.dwarfyassassin.lotrucp.core.UCPCoreMod:<clinit>:23]: LOTR-UCP: Found core mod.
+[17:20:75] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:75] [main/WARN]: The coremod mekanism.common.asm.LoadingHook does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:76] [main/WARN]: The coremod mcp.mobius.mobiuscore.asm.CoreDescription does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:77] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:78] [main/WARN]: The coremod openblocks.OpenBlocksCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:81] [main/WARN]: The coremod openeye.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:82] [main/WARN]: The coremod openmods.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:83] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.7.10_HD_U_E7.jar
+[17:20:83] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_A4.jar
+[17:20:84] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:84] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:86] [main/ERROR]: Coremod ResonantPluginLoader: Unable to class load the plugin resonant.core.ResonantPluginLoader
+java.lang.ClassNotFoundException: resonant.core.ResonantPluginLoader
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:460)
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[17:20:88] [main/WARN]: The coremod thaumcraft.codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:89] [main/WARN]: The coremod thaumic.tinkerer.preloader.ThaumicTLoaderContainer does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:90] [main/WARN]: The coremod schmoller.tubes.asm.TubesPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:93] [main/WARN]: The coremod universalelectricity.core.UELoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:93] [main/ERROR]: Coremod UELoader: The plugin class universalelectricity.core.UELoader was not instantiable
+java.lang.InstantiationException: universalelectricity.core.UELoader
+	at java.lang.Class.newInstance(Class.java:427)
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.NoSuchMethodException: universalelectricity.core.UELoader.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 9 more
+
+[17:20:94] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:20:95] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:20:95] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[17:20:95] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[17:20:96] [main/WARN]: Tweak class name optifine.OptiFineForgeTweaker has already been visited -- skipping
+[17:20:96] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:20:96] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:20:96] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:20:96] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[17:20:96] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[17:20:96] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[17:20:97] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[17:20:97] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\Users\regri\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar
+[17:20:97] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:81] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:20:91] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:20:92] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:92] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:22] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:39] [main/INFO]: Finished data injection.
+[17:20:39] [main/INFO]: Finished data injection.
+[17:20:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:85] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:88] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:19] [main/INFO]: Loaded library ejml-0.23.jar.
+[17:20:20] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:21] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:21] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:21] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:26] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:65] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:65] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:65] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:71] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of bspkrsCore, 6.13 is newer than request 6.12
+[17:20:72] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of buildcraft, 6.0.18 is newer than request 6.0.17
+[17:20:72] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:74] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:75] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:75] [main/INFO]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[17:20:77] [main/INFO]: Bootstrapping LiteLoader 1.7.10
+[17:20:89] [main/INFO]: Registering API provider class com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient
+[17:20:90] [main/INFO]: Spawning API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' ...
+[17:20:91] [main/INFO]: API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' provides API 'liteloader'
+[17:20:92] [main/INFO]: Initialising API 'liteloader' ...
+[17:20:10] [main/INFO]: LiteLoader begin PREINIT...
+[17:20:10] [main/INFO]: Initialising Loader properties...
+[17:20:12] [main/INFO]: Setting up logger...
+[17:20:12] [main/INFO]: LiteLoader 1.7.10_02 starting up...
+[17:20:12] [main/INFO]: Java reports OS="windows 10"
+[17:20:21] [main/INFO]: Enumerating class path...
+[17:20:21] [main/INFO]: Class path separator=";"
+[17:20:22] [main/INFO]: Class path entries=(
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.7.211\authlib-1.7.211.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar
+   classpathEntry=C:\Users\regri\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.7.10\ForgeOptiFine 1.7.10.jar
+)
+[17:20:28] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[17:20:28] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\regri\AppData\Roaming\.minecraft\mods]
+[17:20:28] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10]
+[17:20:28] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[17:20:28] [main/INFO]: Discovering tweaks on class path...
+[17:20:49] [main/INFO]: Discovering valid mod files in folder C:\Users\regri\AppData\Roaming\.minecraft\mods
+[17:20:57] [main/INFO]: Considering valid mod file: C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod
+[17:20:60] [main/INFO]: Adding newest valid mod file 'C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod' at revision 1201,0000
+[17:20:61] [main/INFO]: Discovering valid mod files in folder C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10
+[17:20:61] [main/INFO]: Searching for tweaks in 'Baubles-1.7.10-1.0.1.7.jar'
+[17:20:62] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\Baubles-1.7.10-1.0.1.7.jar'
+[17:20:62] [main/INFO]: Searching for tweaks in 'buildcraft-6.0.18.jar'
+[17:20:62] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\buildcraft-6.0.18.jar'
+[17:20:62] [main/INFO]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.1.104-universal.jar'
+[17:20:62] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\CodeChickenLib-1.7.10-1.1.1.104-universal.jar'
+[17:20:63] [main/INFO]: Searching for tweaks in 'Eureka-1.7.10-1.2.jar'
+[17:20:63] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\Eureka-1.7.10-1.2.jar'
+[17:20:63] [main/INFO]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.1.0.309-universal.jar'
+[17:20:64] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\ForgeMultipart-1.7.10-1.1.0.309-universal.jar'
+[17:20:64] [main/INFO]: Searching for tweaks in 'liteloader-1.7.10.jar'
+[17:20:64] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\liteloader-1.7.10.jar'
+[17:20:67] [main/INFO]: Searching for tweaks in '[1.7.10]bspkrsCore-universal-6.13.jar'
+[17:20:67] [main/WARN]: Error parsing manifest entries in 'C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.13.jar'
+[17:20:67] [main/INFO]: Mod file 'mod_voxelMap_1.2.1_for_1.7.10.litemod' provides classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer', adding to class loader
+[17:20:67] [main/INFO]: classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer' was successfully added
+[17:20:67] [main/INFO]: Mod file 'liteloader-1.7.10.jar' provides tweakClass 'com.mumfrey.liteloader.launch.LiteLoaderTweaker', adding to Launch queue with priority 1000
+[17:20:67] [main/INFO]: LiteLoader PREINIT complete
+[17:20:68] [main/INFO]: Sorting registered packet transformers by priority
+[17:20:79] [main/INFO]: Added 0 packet transformer classes to the transformer list
+[17:20:79] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.transformers.event.EventProxyTransformer'
+[17:20:80] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.launch.LiteLoaderTransformer'
+[17:20:80] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.client.transformers.CrashReportTransformer'
+[17:20:81] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.client.transformers.LiteLoaderCallbackInjectionTransformer'
+[17:20:81] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.client.transformers.LiteLoaderEventInjectionTransformer'
+[17:20:82] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.client.transformers.MinecraftOverlayTransformer'
+[17:20:83] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:84] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:85] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:85] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:20:19] [main/INFO]: [cofh.asm.PCCAccessTransformer:readMappingFile:40]: Adding Accesstransformer map: CoFH_at.cfg
+[17:20:72] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:72] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:74] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:74] [main/INFO]: Hook registered for net.minecraft.client.Minecraft
+[17:20:74] [main/INFO]: Hook registered for net.minecraft.client.multiplayer.PlayerControllerMP
+[17:20:77] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:20:77] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[17:20:77] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[17:20:78] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[17:20:87] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:20:89] [main/INFO]: Injecting downstream transformers
+[17:20:89] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.JoinGamePacketTransformer'
+[17:20:90] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.ServerChatPacketTransformer'
+[17:20:91] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.LiteLoaderEventInjectionTransformer'
+[17:20:08] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.LiteLoaderCallbackInjectionTransformer'
+[17:20:35] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.MinecraftOverlayTransformer'
+[17:20:46] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.LoginSuccessPacketTransformer'
+[17:20:48] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.CustomPayloadPacketTransformer'
+[17:20:48] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.ServerCustomPayloadPacketTransformer'
+[17:20:49] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.ChatPacketTransformer'
+[17:20:50] [main/INFO]: Injecting additional class transformer class 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer'
+[17:20:25] [main/INFO]: Found hooks for net.minecraft.client.Minecraft (bao)
+[17:20:34] [main/INFO]: Injecting event prerenderfbo with 1 handlers in method func_71411_J in class net.minecraft.client.Minecraft
+[17:20:34] [main/INFO]: Injecting event postrenderfbo with 1 handlers in method func_71411_J in class net.minecraft.client.Minecraft
+[17:20:34] [main/INFO]: Injecting event updateframebuffersize with 1 handlers in method func_147119_ah in class net.minecraft.client.Minecraft
+[17:20:42] [main/INFO]: Injecting method return callback for onStartupComplete in class net.minecraft.client.Minecraft
+[17:20:42] [main/INFO]: Injecting profiler invokation callback for onTimerUpdate in class net.minecraft.client.Minecraft
+[17:20:42] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:43] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:43] [main/INFO]: Injecting profiler invokation callback for onRender in class net.minecraft.client.Minecraft
+[17:20:43] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:43] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:44] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:44] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:44] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[17:20:44] [main/INFO]: Injecting profiler invokation callback for onAnimateTick in class net.minecraft.client.Minecraft
+[17:20:48] [main/INFO]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
+[17:20:49] [main/INFO]: MinecraftOverlayTransformer found INIT injection point, this is good.
+[MobiusCore] Current code is OBFUSCATED
+[MobiusCore] Found cpw.mods.fml.common.FMLCommonHandler with checksum F626A08BBC07AE3F7D88072FDFDAE36E
+[MobiusCore] Successful injection in onPreServerTick ()V
+[MobiusCore] Successful injection in onPostServerTick ()V
+[MobiusCore] Successful injection in onPreWorldTick (Lahb;)V
+[MobiusCore] Successful injection in onPostWorldTick (Lahb;)V
+[MobiusCore] Switching injection mode to FORGE
+[MobiusCore] Found net.minecraft.world.World [ ahb ] with checksum 65D394AD88EBFEE03F371544C1A1860E
+[MobiusCore] Found World.updateEntities()... 
+[MobiusCore] Successful injection in h ()V
+[MobiusCore] Successful injection in h ()V
+[MobiusCore] Successful injection in h ()V
+[MobiusCore] Successful injection in h ()V
+[17:20:02] [main/INFO]: [OpenBlocks] Trying to patch EntityPlayer.isInBed (class: yz)
+[17:20:03] [main/INFO]: [OpenBlocks] isInBed patch applied. Enabling sleeping bags
+[17:20:09] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityPlayer:958]: LOTRCore: Patched method func_71043_e
+[17:20:09] [main/INFO]: [PlayerTransformer]INSIDE OBFUSCATED PLAYER CLASS - ABOUT TO PATCH: yz (net.minecraft.entity.player.EntityPlayer)
+[17:20:19] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLivingBase:1030]: LOTRCore: Patched method func_70645_a
+[17:20:19] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLivingBase:1005]: LOTRCore: Patched method func_70658_aO
+[17:20:22] [main/INFO]: [EntityLivingBaseTransformer]INSIDE OBFUSCATED ENTITYLIVINGBASE CLASS - ABOUT TO PATCH: sv (net.minecraft.entity.EntityLivingBase)
+[17:20:43] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityClientPlayerMP:1951]: LOTRCore: Patched method func_110318_g
+[17:20:43] [main/INFO]: Injecting event sendchatmessage with 1 handlers in method func_71165_d in class net.minecraft.client.entity.EntityClientPlayerMP
+[17:20:58] [main/INFO]: openmods.OpenModsClassTransformer$2.createVisitor(OpenModsClassTransformer.java:34): Trying to apply movement callback (class: blk)
+[17:20:71] [main/INFO]: openmods.movement.MovementPatcher$CallInjector.visitMethodInsn(MovementPatcher.java:70): Callback inserted. Using new movement handler.
+[17:20:10] [main/INFO]: [schmoller.tubes.asm.MinecraftTransformer:transform:642]: Injected hook into GuiContainer
+[17:20:10] [main/INFO]: [schmoller.tubes.asm.MinecraftTransformer:transform:648]: GuiContainer was modified by Tubes
+[17:20:11] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Public
+[17:20:11] [main/INFO]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[17:20:11] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:27] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[17:20:28] [main/INFO]: Injecting profiler invokation callback for onRenderChat in class net.minecraft.client.gui.GuiIngame
+[MobiusCore] Found net.minecraft.world.WorldServer [ mt ] with checksum 1847DCA5C710F7DCE5FC6AAAE689C399
+[MobiusCore] Successful injection in b ()V
+[MobiusCore] Successful injection in b ()V
+[17:20:98] [main/INFO]: used the old auth tlauncher service
+[17:20:98] [main/INFO]: Setting user: Silent_Star
+[17:20:28] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockStone:274]: LOTRCore: Added method func_149673_e
+[17:20:28] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockStone:306]: LOTRCore: Added method func_149691_a
+[17:20:36] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockGrass:342]: LOTRCore: Patched method func_149674_a
+[17:20:37] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:397]: LOTRCore: Patched method func_149692_a
+[17:20:37] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:412]: LOTRCore: Patched method func_149644_j
+[17:20:37] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:429]: LOTRCore: Patched method func_149666_a
+[17:20:37] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:446]: LOTRCore: Patched method func_149643_k
+[17:20:37] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:383]: LOTRCore: Patched method <clinit>
+[17:20:51] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockStaticLiquid:484]: LOTRCore: Patched method func_149674_a
+[17:20:65] [main/INFO]: openeye.asm.SingleClassTransformer.visitMethod(SingleClassTransformer.java:26): Applying method transformer tile_entity_load for method c((Ldh;)Laor;)
+[17:20:65] [main/INFO]: openeye.asm.injectors.ExceptionHandlerInjector.addHandler(ExceptionHandlerInjector.java:63): Adding handler for 'tile_entity_construct'
+[17:20:65] [main/INFO]: openeye.asm.injectors.ExceptionHandlerInjector.addHandler(ExceptionHandlerInjector.java:63): Adding handler for 'tile_entity_read'
+[17:20:97] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockPistonBase:856]: LOTRCore: Patched method func_149696_a 1 times
+[17:20:98] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockPistonBase:856]: LOTRCore: Patched method func_150077_h 1 times
+[17:20:98] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockPistonBase:856]: LOTRCore: Patched method func_150079_i 1 times
+[17:20:12] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockFire:557]: LOTRCore: Patched method func_149674_a
+[17:20:12] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockFire:594]: LOTRCore: Patched method tryCatchFire
+[17:20:42] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockFence:635]: LOTRCore: Patched method func_149826_e
+[17:20:42] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockFence:649]: LOTRCore: Patched method func_149825_a
+[17:20:55] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockTrapdoor:757]: LOTRCore: Patched method func_149645_b
+[17:20:55] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockTrapdoor:729]: LOTRCore: Patched method func_149707_d
+[17:20:55] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockTrapdoor:743]: LOTRCore: Patched method func_150119_a
+[17:20:63] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockCauldron:887]: LOTRCore: Patched method func_149645_b
+[17:20:69] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockWall:793]: LOTRCore: Patched method func_150091_e
+[17:20:74] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockAnvil:927]: LOTRCore: Added method func_149668_a
+[17:20:80] [main/INFO]: [schmoller.tubes.asm.MinecraftTransformer:transform:617]: TileEntityHopper was modified by Tubes
+[17:20:72] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchPotionDamage:1857]: LOTRCore: Patched method func_111183_a
+[17:20:90] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityMinecart:1229]: LOTRCore: Patched method func_145821_a
+[17:20:11] [main/INFO]: [PlayerMPTransformer]INSIDE OBFUSCATED PLAYER MP CLASS - ABOUT TO PATCH: mw (net.minecraft.entity.player.EntityPlayerMP)
+[17:20:34] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchItemStack:1771]: LOTRCore: Patched method func_96631_a
+[17:20:74] [main/INFO]: openeye.asm.SingleClassTransformer.visitMethod(SingleClassTransformer.java:26): Applying method transformer entity_load for method a((Ldh;Lahb;)Lsa;)
+[17:20:74] [main/INFO]: openeye.asm.injectors.ExceptionHandlerInjector.addHandler(ExceptionHandlerInjector.java:63): Adding handler for 'entity_construct'
+[17:20:75] [main/INFO]: openeye.asm.injectors.ExceptionHandlerInjector.addHandler(ExceptionHandlerInjector.java:63): Adding handler for 'entity_read'
+[17:20:20] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityHorse:1092]: LOTRCore: Patched method func_70612_e
+[17:20:08] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: ModLoader
+[17:20:49] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchRenderBlocks:1919]: LOTRCore: Patched method func_147805_b
+[17:20:56] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: LightCache
+[17:20:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: BlockCoord
+[17:20:88] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerRepair
+[17:20:90] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.Container
+[17:20:14] [Client thread/INFO]: [RenderTransformer]INSIDE OBFUSCATED RENDER CLASS - ABOUT TO PATCH: bno
+[17:20:30] [Client thread/INFO]: openeye.asm.SingleClassTransformer.visitMethod(SingleClassTransformer.java:26): Applying method transformer crash_handler for method a((Ljava/io/File;)Z)
+[17:20:50] [Client thread/INFO]: Injecting method return callback for IntegratedServerCtor in class net.minecraft.server.integrated.IntegratedServer
+[17:20:64] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchNetHandlerClient:1990]: LOTRCore: Patched method func_147275_a
+[17:20:64] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchNetHandlerClient:2005]: LOTRCore: Patched method func_147259_a
+[17:20:06] [Client thread/INFO]: [EntityRendererTransformer]INSIDE OBFUSCATED RENDERER CLASS - ABOUT TO PATCH: blt
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for onRenderHUD in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for postRender in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for postRender in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for onSetupCameraTransform in class net.minecraft.client.renderer.EntityRenderer
+[17:20:09] [Client thread/INFO]: Injecting profiler invokation callback for postRenderEntities in class net.minecraft.client.renderer.EntityRenderer
+[17:20:64] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLightningBolt:1130]: LOTRCore: Patched method <init>
+[17:20:65] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLightningBolt:1176]: LOTRCore: Patched method <init>: 2 instances of World.setBlock()
+[17:20:66] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLightningBolt:1176]: LOTRCore: Patched method func_70071_h_: 1 instances of World.setBlock()
+[17:20:84] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[17:20:84] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[17:20:84] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:21:27] [Client thread/INFO]: [OptiFine] 
+[17:21:27] [Client thread/INFO]: [OptiFine] OptiFine_1.7.10_HD_U_E7
+[17:21:27] [Client thread/INFO]: [OptiFine] Build: 20180404-111312
+[17:21:27] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[17:21:28] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[17:21:28] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[17:21:28] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.1
+[17:21:28] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2, version 4.6.0 NVIDIA 527.37, NVIDIA Corporation
+[17:21:28] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[17:21:41] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[17:21:46] [Thread-10/INFO]: [OptiFine] Checking for new version
+[17:21:81] [Client thread/INFO]: [Shaders] ShadersMod version: 2.4.12
+[17:21:81] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 527.37
+[17:21:81] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[17:21:81] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2
+[17:21:81] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[17:21:81] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[17:21:81] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[17:21:82] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[17:21:82] [Client thread/INFO]: [Shaders] Load ShadersMod configuration.
+[17:21:82] [Client thread/INFO]: [Shaders] Save ShadersMod configuration.
+[17:21:82] [Client thread/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[17:21:82] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[17:21:04] [Thread-10/INFO]: [OptiFine] Version found: E7
+[17:21:93] [Client thread/INFO]: Injecting event renderfbo with 1 handlers in method func_147615_c in class net.minecraft.client.shader.Framebuffer
+[17:21:03] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_E7, enabling compatibility features
+[17:21:04] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[17:21:05] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[17:21:09] [Client thread/INFO]: Replaced 183 ore recipies
+[17:21:13] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[17:21:13] [Client thread/INFO]: Successfully generated event handler proxy class with 5 handlers(s) and 5 total invokations
+[17:21:46] [Client thread/INFO]: Completed early MinecraftForge initialization
+[17:21:47] [Client thread/INFO]: Running patcher FML for cpw.mods.fml.common.LoadController
+[17:21:47] [Client thread/INFO]: Patched the FML load controller.
+[17:21:47] [Client thread/INFO]: Ran all active patches.
+[17:21:78] [Client thread/INFO]: [AppEng] Core Init
+[17:21:86] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[17:21:86] [Client thread/INFO]: Searching C:\Users\regri\AppData\Roaming\.minecraft\mods for mods
+[17:21:88] [Client thread/INFO]: Also searching C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10 for mods
+[17:21:57] [Client thread/WARN]: Mod DamageIndicatorsMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.0
+[17:21:99] [Client thread/WARN]: Mod Aroma1997CoreHelper is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.2.9
+[17:21:01] [Client thread/WARN]: Mod Aroma1997sDimension is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[17:21:31] [Client thread/WARN]: Mod betterstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.10.0.112-dev
+[17:21:67] [Client thread/WARN]: Mod Botany is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0-dev4
+[17:21:68] [Client thread/WARN]: Mod BinnieCore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0-dev4
+[17:21:80] [Client thread/WARN]: Mod ExtraBees is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0-dev4
+[17:21:82] [Client thread/WARN]: Mod ExtraTrees is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0-dev4
+[17:21:86] [Client thread/WARN]: Mod Genetics is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0-dev4
+[17:21:96] [Client thread/WARN]: Mod eplus is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10-3.0.1
+[17:21:41] [Client thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0k
+[17:21:66] [Client thread/WARN]: Mod NEIPlugins is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.9-unofficial
+[17:21:69] [Client thread/WARN]: Mod PneumaticCraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.6
+[17:21:94] [Client thread/WARN]: Mod PowerConverters is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10-3.0.0.27
+[17:21:10] [Client thread/WARN]: Mod ProjRed|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:20] [Client thread/WARN]: Mod ProjRed|Compatibility is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:21] [Client thread/WARN]: Mod ProjRed|Integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:22] [Client thread/WARN]: Mod ProjRed|Transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:33] [Client thread/WARN]: Mod ProjRed|Illumination is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:36] [Client thread/WARN]: Mod ProjRed|Expansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:36] [Client thread/WARN]: Mod ProjRed|Transportation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:53] [Client thread/WARN]: Mod ProjRed|Exploration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.5.0.50
+[17:21:26] [Client thread/WARN]: Mod ResonantInduction|Mechanical is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[17:21:44] [Client thread/WARN]: Mod Translocator is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.1.12
+[17:21:46] [Client thread/WARN]: Mod Tubes is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.4
+[17:21:25] [Client thread/WARN]: Mod WR-CBE|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.1.4
+[17:21:26] [Client thread/WARN]: Mod WR-CBE|Addons is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.1.4
+[17:21:27] [Client thread/WARN]: Mod WR-CBE|Logic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.1.4
+[17:21:28] [Client thread/WARN]: Mod zeromc_zeromod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.3.0
+[17:21:63] [Client thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.309
+[17:21:67] [Client thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.309
+[17:21:68] [Client thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.309
+[17:21:76] [Client thread/INFO]: Forge Mod Loader has identified 195 mods to load
+[17:21:77] [Client thread/INFO]: Found mod(s) [UniversalElectricity] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[17:21:78] [Client thread/INFO]: Found mod(s) [GraviSuite] containing declared API package buildcraft.api.tools (owned by BuildCraftAPI|core) without associated API reference
+[17:21:78] [Client thread/INFO]: Found mod(s) [Tubes] containing declared API package buildcraft.api.tools (owned by BuildCraftAPI|core) without associated API reference
+[17:21:78] [Client thread/INFO]: Found mod(s) [ExtraUtilities] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[17:21:78] [Client thread/INFO]: Found mod(s) [betterstorage] containing declared API package thaumcraft.api (owned by Thaumcraft) without associated API reference
+[17:21:78] [Client thread/INFO]: Found mod(s) [RedstoneArsenal] containing declared API package mods.railcraft.api.core.items (owned by Railcraft) without associated API reference
+[17:21:78] [Client thread/INFO]: Found mod(s) [GregsLighting] containing declared API package ic2.api.energy.tile (owned by IC2) without associated API reference
+[17:21:79] [Client thread/INFO]: Loaded 2 mod patches.
+[17:21:90] [Client thread/WARN]: Mod asielibcore has been disabled through configuration
+[17:21:62] [Client thread/INFO]: FML has found a non-mod file CoFHLib-[1.7.10]1.0.0B6-26.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:21:62] [Client thread/INFO]: FML has found a non-mod file MDK-1.7.10-7.1.1.114.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:21:62] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.1.104-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:21:63] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, Aroma1997Core, CodeChickenCore, <CoFH ASM>, MobiusCore, NotEnoughItems, OpenEye, ThaumicTinkerer-preloader, TubesCore, OpenModsCore, malisiscore, divinerpg, ArmorStatusHUD, DamageIndicatorsMod, Treecapitator, AdvancedMachines, AdvancedSolarPanel, aobd, appliedenergistics2, Aroma1997CoreHelper, Aroma1997sDimension, asielib, Backpack, bdlib, betterstorage, BiblioCraft, BiblioWoodsBoP, BiblioWoodsForestry, BiblioWoodsNatura, BigReactors, Botany, BinnieCore, ExtraBees, ExtraTrees, Genetics, BiomesOPlenty, AWWayofTime, Botania, BrandonsCore, bcadditions, CarpentersBlocks, chisel, CoFHCore, CompactSolars, ComputerCraft, custom, DimensionalAnchors, DraconicEvolution, EMT, eplus, EnderIO, EE3, extracells, ExtraUtilities, factorization.misc, factorization.notify, factorization, Forestry, gendustry, advgenerators, GraviSuite, GregsLighting, IC2NuclearControl, iChunUtil, ImmibisCore, IC2, InfiniTubes, inventorytweaks, IronChest, JABBA, journeymap, LiquidXP, lotr, lycanitesmobs, arcticmobs, demonmobs, desertmobs, forestmobs, freshwatermobs, infernomobs, junglemobs, mountainmobs, plainsmobs, saltwatermobs, swampmobs, malisisdoors, Mantle, Mekanism, MekanismGenerators, MekanismTools, meteors, MFFS, millenaire, MineFactoryReloaded, MineFactoryReloaded|CompatAppliedEnergistics, MineFactoryReloaded|CompatAtum, MineFactoryReloaded|CompatBackTools, MineFactoryReloaded|CompatBuildCraft, MineFactoryReloaded|CompatChococraft, MineFactoryReloaded|CompatExtraBiomes, MineFactoryReloaded|CompatForestry, MineFactoryReloaded|CompatForgeMicroblock, MineFactoryReloaded|CompatIC2, MineFactoryReloaded|CompatMystcraft, MineFactoryReloaded|CompatPams, MineFactoryReloaded|CompatProjRed, MineFactoryReloaded|CompatRailcraft, MineFactoryReloaded|CompatRP2, MineFactoryReloaded|CompatSufficientBiomes, MineFactoryReloaded|CompatThaumcraft, MineFactoryReloaded|CompatThermalExpansion, MineFactoryReloaded|CompatTwilightForest, MineFactoryReloaded|CompatVanilla, MineTweaker3, modularsystems, moskeletons, MSM3, Natura, NEIAddons, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, NEIPlugins, NetherOres, ObsidiPlates, OpenBlocks, OpenComputers, OpenComputers|Core, OpenMods, fodc, PneumaticCraft, PowerConverters, pressure, ProjRed|Core, ProjRed|Compatibility, ProjRed|Integration, ProjRed|Transmission, ProjRed|Illumination, ProjRed|Expansion, ProjRed|Transportation, ProjRed|Exploration, QuarryPlus, Railcraft, RedstoneArsenal, RIO, ResonantEngine, ResonantInduction|Electrical, ResonantInduction|Mechanical, ResonantInductionCore, ResonantInduction|Atomic, ResonantInduction|Archaic, rftools, statues, StevesCarts, StevesFactoryManager, supercraftingframe, Sync, TConstruct, Thaumcraft, ThaumicTinkerer, ThermalExpansion, ThermalFoundation, TiCTooltips, tlauncher_custom_cape_skin, TMechworks, Translocator, Tubes, Tubestuff, TwilightForest, UniversalElectricity, vampirism, Waila, wawla, witchery, WR-CBE|Core, WR-CBE|Addons, WR-CBE|Logic, zeromc_zeromod, bspkrsCore, Baubles, BuildCraft|Builders, BuildCraft|Core, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, eureka, ForgeMicroblock, ForgeMultipart, McMultipart] at CLIENT
+[17:21:64] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, appliedenergistics2-core, Aroma1997Core, CodeChickenCore, <CoFH ASM>, MobiusCore, NotEnoughItems, OpenEye, ThaumicTinkerer-preloader, TubesCore, OpenModsCore, malisiscore, divinerpg, ArmorStatusHUD, DamageIndicatorsMod, Treecapitator, AdvancedMachines, AdvancedSolarPanel, aobd, appliedenergistics2, Aroma1997CoreHelper, Aroma1997sDimension, asielib, Backpack, bdlib, betterstorage, BiblioCraft, BiblioWoodsBoP, BiblioWoodsForestry, BiblioWoodsNatura, BigReactors, Botany, BinnieCore, ExtraBees, ExtraTrees, Genetics, BiomesOPlenty, AWWayofTime, Botania, BrandonsCore, bcadditions, CarpentersBlocks, chisel, CoFHCore, CompactSolars, ComputerCraft, custom, DimensionalAnchors, DraconicEvolution, EMT, eplus, EnderIO, EE3, extracells, ExtraUtilities, factorization.misc, factorization.notify, factorization, Forestry, gendustry, advgenerators, GraviSuite, GregsLighting, IC2NuclearControl, iChunUtil, ImmibisCore, IC2, InfiniTubes, inventorytweaks, IronChest, JABBA, journeymap, LiquidXP, lotr, lycanitesmobs, arcticmobs, demonmobs, desertmobs, forestmobs, freshwatermobs, infernomobs, junglemobs, mountainmobs, plainsmobs, saltwatermobs, swampmobs, malisisdoors, Mantle, Mekanism, MekanismGenerators, MekanismTools, meteors, MFFS, millenaire, MineFactoryReloaded, MineFactoryReloaded|CompatAppliedEnergistics, MineFactoryReloaded|CompatAtum, MineFactoryReloaded|CompatBackTools, MineFactoryReloaded|CompatBuildCraft, MineFactoryReloaded|CompatChococraft, MineFactoryReloaded|CompatExtraBiomes, MineFactoryReloaded|CompatForestry, MineFactoryReloaded|CompatForgeMicroblock, MineFactoryReloaded|CompatIC2, MineFactoryReloaded|CompatMystcraft, MineFactoryReloaded|CompatPams, MineFactoryReloaded|CompatProjRed, MineFactoryReloaded|CompatRailcraft, MineFactoryReloaded|CompatRP2, MineFactoryReloaded|CompatSufficientBiomes, MineFactoryReloaded|CompatThaumcraft, MineFactoryReloaded|CompatThermalExpansion, MineFactoryReloaded|CompatTwilightForest, MineFactoryReloaded|CompatVanilla, MineTweaker3, modularsystems, moskeletons, MSM3, Natura, NEIAddons, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, NEIPlugins, NetherOres, ObsidiPlates, OpenBlocks, OpenComputers, OpenComputers|Core, OpenMods, fodc, PneumaticCraft, PowerConverters, pressure, ProjRed|Core, ProjRed|Compatibility, ProjRed|Integration, ProjRed|Transmission, ProjRed|Illumination, ProjRed|Expansion, ProjRed|Transportation, ProjRed|Exploration, QuarryPlus, Railcraft, RedstoneArsenal, RIO, ResonantEngine, ResonantInduction|Electrical, ResonantInduction|Mechanical, ResonantInductionCore, ResonantInduction|Atomic, ResonantInduction|Archaic, rftools, statues, StevesCarts, StevesFactoryManager, supercraftingframe, Sync, TConstruct, Thaumcraft, ThaumicTinkerer, ThermalExpansion, ThermalFoundation, TiCTooltips, tlauncher_custom_cape_skin, TMechworks, Translocator, Tubes, Tubestuff, TwilightForest, UniversalElectricity, vampirism, Waila, wawla, witchery, WR-CBE|Core, WR-CBE|Addons, WR-CBE|Logic, zeromc_zeromod, bspkrsCore, Baubles, BuildCraft|Builders, BuildCraft|Core, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Transport, eureka, ForgeMicroblock, ForgeMultipart, McMultipart] at SERVER
+[17:21:68] [Client thread/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchFMLNetworkHandler:2038]: LOTRCore: Patched method getEntitySpawningPacket
+[MobiusCore] Found cpw.mods.fml.common.network.FMLOutboundHandler with checksum CB55471D614BD5AF06AEA87A77A3014F
+[MobiusCore] Successful injection in write (Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;Lio/netty/channel/ChannelPromise;)V
+[17:21:21] [Client thread/INFO]: openeye.Mod.onModConstruct(Mod.java:66): Snooper disabled, OpenEye will not send or receive any data from server
+[17:21:23] [OpenEye mod meta collector/INFO]: openeye.logic.ModMetaCollector.<init>(ModMetaCollector.java:193): Starting mod metadatadata collection
+[MobiusCore] Found cpw.mods.fml.common.eventhandler.ASMEventHandler with checksum 1C68592318817E7EE853EC874A5ACBF4
+[MobiusCore] Successful injection in <init> (Ljava/lang/Object;Ljava/lang/reflect/Method;Lcpw/mods/fml/common/ModContainer;)V
+[MobiusCore] Successful injection in invoke (Lcpw/mods/fml/common/eventhandler/Event;)V
+[MobiusCore] Successful injection in invoke (Lcpw/mods/fml/common/eventhandler/Event;)V
+[MobiusCore] Found net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher [ bmk ] with checksum 1B9F2A44C89A8C0C359AD4D34A73DA8D
+[MobiusCore] Successful injection in a (Laor;DDDF)V
+[MobiusCore] Successful injection in a (Laor;DDDF)V
+[17:21:76] [Client thread/ERROR]: The mod Backpack is expecting signature @FINGERPRINT@ for source backpack-2.0.0-1.7.x.jar, however there is no signature matching that description
+[17:21:74] [Client thread/ERROR]: [Environment Checks] Optifine detected. This may cause issues due to base edits or ASM usage.
+[17:21:50] [OpenEye mod meta collector/INFO]: openeye.logic.ModMetaCollector.<init>(ModMetaCollector.java:204): Collection of mod metadata finished. Duration: 4176,5106 ms
+[17:21:00] [Client thread/INFO]: An error occured trying to load a proxy into Mechanical.proxy. Did you declare your mod as 'class' instead of 'object'?
+java.lang.ClassNotFoundException: resonantinduction.mechanical.Mechanical$
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.common.ILanguageAdapter$ScalaAdapter.setProxy(ILanguageAdapter.java:51)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:71)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:512)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at com.mumfrey.liteloader.transformers.ClassOverlayTransformer.remapClass(ClassOverlayTransformer.java:187)
+	at com.mumfrey.liteloader.transformers.ClassOverlayTransformer.transform(ClassOverlayTransformer.java:172)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+	... 38 more
+
+[17:21:04] [Client thread/INFO]: An error occured trying to load a proxy into Mechanical.proxy. Did you declare your mod as 'class' instead of 'object'?
+java.lang.ClassNotFoundException: resonantinduction.mechanical.Mechanical$
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.common.ILanguageAdapter$ScalaAdapter.setProxy(ILanguageAdapter.java:51)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:71)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:512)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[17:21:15] [Client thread/INFO]: An error occured trying to load a proxy into Mechanical.proxy. Did you declare your mod as 'class' instead of 'object'?
+java.lang.ClassNotFoundException: resonantinduction.mechanical.Mechanical$
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.common.ILanguageAdapter$ScalaAdapter.setProxy(ILanguageAdapter.java:51)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:71)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:512)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[MobiusCore] Found net.minecraft.client.renderer.entity.RenderManager [ bnn ] with checksum 5C0BDAA05D27C35DF5A408139A6F7EA7
+[MobiusCore] Successful injection in a (Lsa;DDDFFZ)Z
+[MobiusCore] Successful injection in a (Lsa;DDDFFZ)Z
+[17:21:31] [Client thread/INFO]: Found hooks for net.minecraft.client.multiplayer.PlayerControllerMP (bje)
+[17:21:43] [Client thread/INFO]: Hello Minecraft!!!
+[17:21:36] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.CustomPayloadPacketTransformer for gr
+[17:21:60] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ServerCustomPayloadPacketTransformer for iz
+[17:21:43] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.JoinGamePacketTransformer for hd
+[17:21:44] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ChatPacketTransformer for gj
+[17:21:85] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ServerChatPacketTransformer for ir
+[17:21:89] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.LoginSuccessPacketTransformer for js
+[17:21:37] [Client thread/INFO]: Hello Minecraft!!!
+[17:21:07] [Client thread/ERROR]: The mod EE3 is expecting signature @FINGERPRINT@ for source EquivalentExchange3-1.7.10-0.2.337.jar, however there is no signature matching that description
+[17:21:31] [Client thread/INFO]: The copy of Equivalent Exchange 3 that you are running is a development version of the mod, and as such may be unstable and/or incomplete.
+[17:22:71] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerWorkbench
+[17:22:69] [Client thread/INFO]: Stripping methods and fields from powercrystals.minefactoryreloaded.modhelpers.buildcraft.Buildcraft
+[17:22:70] [Client thread/INFO]: Stripping methods and fields from powercrystals.netherores.ores.Ores
+[17:22:20] [Client thread/INFO]: Natura, what are we going to do tomorrow night?
+[17:22:20] [Client thread/INFO]: TConstruct, we're going to take over the world!
+[17:22:57] [Client thread/INFO]: An error occured trying to load a proxy into Mechanical.proxy. Did you declare your mod as 'class' instead of 'object'?
+java.lang.ClassNotFoundException: resonantinduction.mechanical.Mechanical$
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at cpw.mods.fml.common.ILanguageAdapter$ScalaAdapter.setProxy(ILanguageAdapter.java:51)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:71)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:512)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.io.FileNotFoundException: https://dl.dropbox.com/u/46486053/RemoteInfo.txt
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at vswe.stevescarts.Fancy.FancyPancyLoader.run(FancyPancyLoader.java:51)
+[17:22:10] [Thread-13/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Thread.run(Thread.java:745)
+[17:22:92] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Malisis Core, FMLFileResourcePack:DivineRPG, FMLFileResourcePack:ArmorStatusHUD, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:IC2 Advanced Machines Addon, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:asielib, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BetterStorage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:BiblioWoods Natura Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:Buildcraft Additions, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compact Solar Arrays, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Custom Collection, FMLFileResourcePack:Dimensional Anchors, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Electro-Magic Tools, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:ExtraCells, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Factorization Miscellaneous Nonsense, FMLFileResourcePack:Factorization Notification System, FMLFileResourcePack:Factorization, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Advanced Generators, FMLFileResourcePack:Graviation Suite, FMLFileResourcePack:Greg's Lighting, FMLFileResourcePack:Nuclear Control, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Immibis Core, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:InfiniTubes, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Liquid XP, FMLFileResourcePack:The Lord of the Rings Mod, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:Falling Meteors, FMLFileResourcePack:Modular Force Field System, FMLFileResourcePack:MillГ©naire, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat: Pam's Mods, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: RP2, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Modular Systems, FMLFileResourcePack:Mo'Skeletons, FMLFileResourcePack:More Swords 3, FMLFileResourcePack:Natura, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Plugins Unofficial, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:ObsidiPlates, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenComputers (Core), FMLFileResourcePack:OpenMods, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:PneumaticCraft, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Pressure Pipes, FMLFileResourcePack:ProjectRed, FMLFileResourcePack:ProjectRed-Compatibility, FMLFileResourcePack:ProjectRed-Integration, FMLFileResourcePack:ProjectRed-Transmission, FMLFileResourcePack:ProjectRed-Illumination, FMLFileResourcePack:ProjectRed-Expansion, FMLFileResourcePack:ProjectRed-Transportation, FMLFileResourcePack:ProjectRed-Exploration, FMLFileResourcePack:QuarryPlus, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:RemoteIO, FMLFileResourcePack:Resonant Engine, FMLFileResourcePack:Resonant Induction Electrical, FMLFileResourcePack:Resonant Induction Mechanical, FMLFileResourcePack:Resonant Induction, FMLFileResourcePack:Resonant Induction Atomic, FMLFileResourcePack:Resonant Induction Archaic, FMLFileResourcePack:RFTools, FMLFileResourcePack:Statues, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Steve's Factory Manager, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:Sync, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:TLSkinCape, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:Translocator, FMLFileResourcePack:Tubes, FMLFileResourcePack:Tubestuff, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Universal Electricity, FMLFileResourcePack:Vampirism, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Witchery, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Zero Mod, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Eureka, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (291 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: 1
+flush now
+flush now
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10SMPDivineRPG_1.4.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedMachinesAS-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedSolarPanel-1.7.10-3.5.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AOBD-2.2.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv1-stable-1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.7.10-1.0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997s-Dimensional-World-1.7.2-1.0.2.16.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AsieLib-1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\backpack-2.0.0-1.7.x.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\bdlib-mc1710-1.4.5.24.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BetterStorage-1.7.10-0.10.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioCraft[v1.8.2][MC1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[BiomesOPlenty][v1.8].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Forestry][v1.6].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Natura][v1.4].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BigReactors-0.4.0rc8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\binnie-mods-2.0-dev4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.7.10-2.1.0.992-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Blood Magic-v1.1.0(1.7.10).jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Botania r1.2-120.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BrandonsCore-1.7.10-1.0.0.12.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BuildcraftAdditions-1.7.10-1.6.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Carpenters Blocks v3.2.8 - MC 1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Chisel-1.7.10-1.5.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CodeChickenCore-1.7.10-1.0.3.26-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHCore-[1.7.10]3.0.0B6-32.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHLib-[1.7.10]1.0.0B6-26.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CompactSolars-1.7.10-4.4.39.315-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ComputerCraft1.64.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Custom.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\dimensional-anchor-59.0.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.7.10-1.0.2h.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ElectroMagicTools-1.7.10-2.0.0Alpha-22.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnchantingPlus-1.7.10-3.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnderIO-1.7.10-2.0.8.221.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EquivalentExchange3-1.7.10-0.2.337.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ExtraCells-1.7.10-2.1.12b8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\extrautilities-1.1.0k.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Factorization-1.7.10-0.8.88.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\forestry_1.7.10-3.0.0.125.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\gendustry-mc1710-1.3.4.29.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\generators-mc1710-0.9.2.15.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GraviSuite-1.7.10-2.0.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GregsLighting-1.11.0-mc1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ic2nc-1.7.10-1.7.10.08.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\iChunUtil-4.0.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\immibis-core-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.2.647-experimental.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\infinitubes-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.59-dev-153.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ironchest-1.7.10-6.0.62.742-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Jabba-1.1.4_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\journeymap_1.7.10_5.1.0_unlimited.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\liquid-xp-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LOTRMod-v36.15-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LycanitesMobsComplete 1.10.0d [1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisiscore-1.7.10-0.9.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisisdoors-1.7.10-1.1.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Mantle-mc1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MDK-1.7.10-7.1.1.114.zip C:\Users\regri\AppData\Roaming\.minecraft\mods\Mekanism-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismTools-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\meteors-1.7.10-2.13.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mffs-4.1.0.31-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\millenaire-6.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineTweaker3-1.7.10-3.0.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MobiusCore-1.2.3_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Modular Systems-1.7.10_1.43.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod C:\Users\regri\AppData\Roaming\.minecraft\mods\MoSkeletons_1.7.10-1.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MSM-SNAP-3.0.0e-For-MC-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\natura-1.7.10-2.2.0-b1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\neiaddons-mc1710-1.12.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NEIPlugins-MC1.7.10-1.1.0.9-unofficial.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NetherOres-[1.7.10]2.3.0RC3-84.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NotEnoughItems-1.7.10-1.0.3.57-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ObsidiPlates-1.7.10-universal-3.0.0.18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenBlocks-1.7.10-1.3-snapshot-434.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenComputers-MC1.7.10-1.3.4.63-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenEye-0.6-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenModsLib-1.7.10-0.6-snapshot-224.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine-1.7.10_HD_U_E7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine_1.7.10_HD_A4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OreDictionaryConverter-1.5.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PneumaticCraft-1.7.10-1.2.9-24-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PowerConverters-1.7.10-3.0.0.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\pressure-mc1710-0.9.5.33.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Base-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Compat-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Integration-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Lighting-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Mechanical_beta-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-World-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\QuarryPlus-1.7.10-1.5.7.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Railcraft_1.7.10-9.3.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RedstoneArsenal-[1.7.10]1.1.0B4-10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RemoteIO-1.7.10-1.4.3.B49-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-engine-2.0.0.118-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-induction-0.3.4.116-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\rftools-1.01.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\statues-1.7.10-2.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesCarts2.0.0.b18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesFactoryManagerA92.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\supercraftingframe-1.7.10.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Sync-4.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TConstruct-1.7.10-1.7.0d3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Thaumcraft-1.7.10-4.2.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThaumicTinkerer-2.5-1.7.10-158.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalExpansion-[1.7.10]4.0.0B5-13.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalFoundation-[1.7.10]1.0.0B3-8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TiCTooltips-mc1.7.10-1.1.11b.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tlskincape_1.7.10-1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TMechworks-1.7.10-0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Translocator-1.7.10-1.1.1.12-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Tubes-1.7.10-2.0.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tubestuff-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\twilightforest-1.7.10-2.3.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\universal-electricity-4.0.0.78-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Vampirism_1.7.10_0.7.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Waila-1.5.5_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Wawla-1.0.6_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\witchery-1.7.10-0.20.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\WR-CBE-1.7.10-1.4.1.4-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ZeroMod-universal-1.7.10-1.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]ArmorStatusHUD-client-1.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]DamageIndicatorsMod-3.2.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.2]Treecapitator-universal-2.0.3.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\regri\AppData\Roaming\.minecraft\mods\1.7.10SMPDivineRPG_1.4.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedMachinesAS-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AdvancedSolarPanel-1.7.10-3.5.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AOBD-2.2.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv1-stable-1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.7.10-1.0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Aroma1997s-Dimensional-World-1.7.2-1.0.2.16.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\AsieLib-1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\backpack-2.0.0-1.7.x.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\bdlib-mc1710-1.4.5.24.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BetterStorage-1.7.10-0.10.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioCraft[v1.8.2][MC1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[BiomesOPlenty][v1.8].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Forestry][v1.6].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiblioWoods[Natura][v1.4].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BigReactors-0.4.0rc8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\binnie-mods-2.0-dev4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.7.10-2.1.0.992-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Blood Magic-v1.1.0(1.7.10).jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Botania r1.2-120.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BrandonsCore-1.7.10-1.0.0.12.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\BuildcraftAdditions-1.7.10-1.6.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Carpenters Blocks v3.2.8 - MC 1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Chisel-1.7.10-1.5.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CodeChickenCore-1.7.10-1.0.3.26-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHCore-[1.7.10]3.0.0B6-32.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CoFHLib-[1.7.10]1.0.0B6-26.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\CompactSolars-1.7.10-4.4.39.315-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ComputerCraft1.64.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Custom.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\dimensional-anchor-59.0.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.7.10-1.0.2h.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ElectroMagicTools-1.7.10-2.0.0Alpha-22.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnchantingPlus-1.7.10-3.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EnderIO-1.7.10-2.0.8.221.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\EquivalentExchange3-1.7.10-0.2.337.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ExtraCells-1.7.10-2.1.12b8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\extrautilities-1.1.0k.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Factorization-1.7.10-0.8.88.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\forestry_1.7.10-3.0.0.125.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\gendustry-mc1710-1.3.4.29.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\generators-mc1710-0.9.2.15.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GraviSuite-1.7.10-2.0.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\GregsLighting-1.11.0-mc1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ic2nc-1.7.10-1.7.10.08.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\iChunUtil-4.0.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\immibis-core-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.2.647-experimental.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\infinitubes-59.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.59-dev-153.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ironchest-1.7.10-6.0.62.742-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Jabba-1.1.4_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\journeymap_1.7.10_5.1.0_unlimited.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\liquid-xp-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LOTRMod-v36.15-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\LycanitesMobsComplete 1.10.0d [1.7.10].jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisiscore-1.7.10-0.9.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\malisisdoors-1.7.10-1.1.3.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Mantle-mc1.7.10-0.3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MDK-1.7.10-7.1.1.114.zip C:\Users\regri\AppData\Roaming\.minecraft\mods\Mekanism-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MekanismTools-1.7.10-7.1.1.113.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\meteors-1.7.10-2.13.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mffs-4.1.0.31-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\millenaire-6.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MineTweaker3-1.7.10-3.0.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MobiusCore-1.2.3_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Modular Systems-1.7.10_1.43.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\mod_voxelMap_1.2.1_for_1.7.10.litemod C:\Users\regri\AppData\Roaming\.minecraft\mods\MoSkeletons_1.7.10-1.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\MSM-SNAP-3.0.0e-For-MC-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\natura-1.7.10-2.2.0-b1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\neiaddons-mc1710-1.12.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NEIPlugins-MC1.7.10-1.1.0.9-unofficial.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NetherOres-[1.7.10]2.3.0RC3-84.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\NotEnoughItems-1.7.10-1.0.3.57-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ObsidiPlates-1.7.10-universal-3.0.0.18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenBlocks-1.7.10-1.3-snapshot-434.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenComputers-MC1.7.10-1.3.4.63-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenEye-0.6-1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OpenModsLib-1.7.10-0.6-snapshot-224.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OptiFine_1.7.10_HD_A4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\OreDictionaryConverter-1.5.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PneumaticCraft-1.7.10-1.2.9-24-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\PowerConverters-1.7.10-3.0.0.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\pressure-mc1710-0.9.5.33.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Base-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Compat-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Integration-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Lighting-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-Mechanical_beta-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ProjectRed-World-1.7.10-4.5.0.50.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\QuarryPlus-1.7.10-1.5.7.7.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Railcraft_1.7.10-9.3.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RedstoneArsenal-[1.7.10]1.1.0B4-10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\RemoteIO-1.7.10-1.4.3.B49-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-engine-2.0.0.118-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\resonant-induction-0.3.4.116-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\rftools-1.01.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\statues-1.7.10-2.1.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesCarts2.0.0.b18.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\StevesFactoryManagerA92.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\supercraftingframe-1.7.10.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Sync-4.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TConstruct-1.7.10-1.7.0d3.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Thaumcraft-1.7.10-4.2.0.1.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThaumicTinkerer-2.5-1.7.10-158.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalExpansion-[1.7.10]4.0.0B5-13.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ThermalFoundation-[1.7.10]1.0.0B3-8.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TiCTooltips-mc1.7.10-1.1.11b.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\TMechworks-1.7.10-0.2.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Translocator-1.7.10-1.1.1.12-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Tubes-1.7.10-2.0.4.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\tubestuff-59.0.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\twilightforest-1.7.10-2.3.2.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\universal-electricity-4.0.0.78-core.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Vampirism_1.7.10_0.7.9.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Waila-1.5.5_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\Wawla-1.0.6_1.7.10.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\witchery-1.7.10-0.20.6.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\WR-CBE-1.7.10-1.4.1.4-universal.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\ZeroMod-universal-1.7.10-1.3.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]ArmorStatusHUD-client-1.27.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.10]DamageIndicatorsMod-3.2.0.jar C:\Users\regri\AppData\Roaming\.minecraft\mods\[1.7.2]Treecapitator-universal-2.0.3.jar
+flush now
